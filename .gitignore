@@ -1,2 +1,4 @@
 .ipynb_checkpoints/
 notes
+__pycache__/
+movies_prepared.csv
